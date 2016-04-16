@@ -1,6 +1,6 @@
 {
 	"name": "flexiblemarshal",
-	"description": "",
+	"description": "A flexible marshaller/demarshaller for D.",
 	"authors": ["Matthew Cochrane"],
 	"homepage": "https://github.com/mattisback/FlexibleMarshal",
 	"license": "GPL-2.0",
